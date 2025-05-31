@@ -1,16 +1,16 @@
 
 # Static-S3-Website Hosting DEMO
 
-This project demonstrates how to host a static website on Amazon S3 using HTML files.
+This project demonstrates how I hosted a static website on Amazon S3 using HTML files.
 
 ## Project Purpose
-The goal is to gain hands-on experience with AWS S3 static website hosting by uploading an `index.html` and `error.html` page.
+The goal is to gain demostrate my hands-on experience with AWS S3 static website hosting by uploading an `index.html` and `error.html` page.
 
-## What You’ll Learn
+## What this skill demostrates
 - S3 bucket setup
 - Static website hosting
 - Setting permissions and public access
-- Using Git to manage your project
+- Using Git to manage my project
 
 ## Files Included
 - `index.html`
@@ -28,6 +28,3 @@ The goal is to gain hands-on experience with AWS S3 static website hosting by up
 ## Outcome
 A working website accessible over the internet via an S3 endpoint.
 
-
-
->>>>>>> 0cb0dc9 (Add screenshots to README.md)
